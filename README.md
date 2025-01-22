@@ -1,1 +1,1 @@
-# vhk_test OK OK PPPP
+# vhk_test OK KO
