@@ -1,1 +1,3 @@
 PROJET Tinder
+
+1/ A partir d'un fichier recharger les données dans un dataframe
