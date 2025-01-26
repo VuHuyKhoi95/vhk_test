@@ -1,2 +1,6 @@
 premiere ligne
+<<<<<<< HEAD
 2nd ligne (2nd modif)
+=======
+2 ligne 
+>>>>>>> dev
