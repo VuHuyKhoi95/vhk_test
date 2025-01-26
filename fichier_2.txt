@@ -8,3 +8,5 @@ df.head()
 df.shape
 df.columns
 df.describe()
+
+3/ dans la branche rec
