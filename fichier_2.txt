@@ -11,4 +11,10 @@ df.describe()
 
 3/ dans la branche rec
 
+<<<<<<< HEAD
 4/ dans la branche rec
+=======
+4/ dans la branche rec
+
+5/ Ajout dans la branche 5 14h25
+>>>>>>> temp
