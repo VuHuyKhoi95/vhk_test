@@ -12,5 +12,3 @@ df.describe()
 3/ dans la branche rec
 
 4/ dans la branche rec
-
-5/ dans la branche temp
